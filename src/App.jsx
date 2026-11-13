@@ -317,7 +317,9 @@ function App() {
           Interested in working together? Feel free to contact me.
         </p>
 <a
-  href="mailto:ar8695529@gmail.com"
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=ar8695529@gmail.com"
+  target="_blank"
+  rel="noopener noreferrer"
   className="primary-btn"
 >
   Send Me an Email
